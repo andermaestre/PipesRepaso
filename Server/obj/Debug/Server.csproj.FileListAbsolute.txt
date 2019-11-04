@@ -1,0 +1,7 @@
+C:\Users\andermaestre\source\repos\PipesRepaso1\Server\bin\Debug\Server.exe.config
+C:\Users\andermaestre\source\repos\PipesRepaso1\Server\bin\Debug\Server.exe
+C:\Users\andermaestre\source\repos\PipesRepaso1\Server\bin\Debug\Server.pdb
+C:\Users\andermaestre\source\repos\PipesRepaso1\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\andermaestre\source\repos\PipesRepaso1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\andermaestre\source\repos\PipesRepaso1\Server\obj\Debug\Server.exe
+C:\Users\andermaestre\source\repos\PipesRepaso1\Server\obj\Debug\Server.pdb

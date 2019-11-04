@@ -1,0 +1,10 @@
+C:\Users\andermaestre\source\repos\PipesRepaso1\PipesRepaso1\bin\Debug\PipesRepaso1.exe.config
+C:\Users\andermaestre\source\repos\PipesRepaso1\PipesRepaso1\bin\Debug\PipesRepaso1.exe
+C:\Users\andermaestre\source\repos\PipesRepaso1\PipesRepaso1\bin\Debug\PipesRepaso1.pdb
+C:\Users\andermaestre\source\repos\PipesRepaso1\PipesRepaso1\obj\Debug\PipesRepaso1.csprojAssemblyReference.cache
+C:\Users\andermaestre\source\repos\PipesRepaso1\PipesRepaso1\obj\Debug\PipesRepaso1.Form1.resources
+C:\Users\andermaestre\source\repos\PipesRepaso1\PipesRepaso1\obj\Debug\PipesRepaso1.Properties.Resources.resources
+C:\Users\andermaestre\source\repos\PipesRepaso1\PipesRepaso1\obj\Debug\PipesRepaso1.csproj.GenerateResource.cache
+C:\Users\andermaestre\source\repos\PipesRepaso1\PipesRepaso1\obj\Debug\PipesRepaso1.csproj.CoreCompileInputs.cache
+C:\Users\andermaestre\source\repos\PipesRepaso1\PipesRepaso1\obj\Debug\PipesRepaso1.exe
+C:\Users\andermaestre\source\repos\PipesRepaso1\PipesRepaso1\obj\Debug\PipesRepaso1.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipesRepaso1", "PipesRepaso1\PipesRepaso1.csproj", "{2810204B-D828-4DCD-8BA0-BF5F5E94E281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{068A8A77-12DD-47FB-A64D-9A6296FF105C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "Cliente\Cliente.csproj", "{906151C0-F875-4AA3-B283-B1C2395927FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2810204B-D828-4DCD-8BA0-BF5F5E94E281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2810204B-D828-4DCD-8BA0-BF5F5E94E281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2810204B-D828-4DCD-8BA0-BF5F5E94E281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2810204B-D828-4DCD-8BA0-BF5F5E94E281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068A8A77-12DD-47FB-A64D-9A6296FF105C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068A8A77-12DD-47FB-A64D-9A6296FF105C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068A8A77-12DD-47FB-A64D-9A6296FF105C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068A8A77-12DD-47FB-A64D-9A6296FF105C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906151C0-F875-4AA3-B283-B1C2395927FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906151C0-F875-4AA3-B283-B1C2395927FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906151C0-F875-4AA3-B283-B1C2395927FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906151C0-F875-4AA3-B283-B1C2395927FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EB2B6F8-401D-4092-9B62-4880BE057F3B}
+	EndGlobalSection
+EndGlobal
